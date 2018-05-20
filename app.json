@@ -1,0 +1,7 @@
+{
+  "name": "prototype",
+  "description": "website builder",
+  "repository": "https://github.com/tobeythorn/prototype",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "image": "heroku/nodejs"
+}
